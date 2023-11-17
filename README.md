@@ -45,8 +45,11 @@ Input the gateway router's IP address into your web browser
 
 ### Navigate to the NAT settings in router portal
 To get NAT settings:
+
 From the portal homepage **Firewall** > **NAT/Gaming**
+
 These settings are protected so you will need to retrieve your router's access code from the side of your router and input them to access these settings
+
 ***Note I have ATT so this may be different for you**
 
 ### Setting up Port Forwarding for SSH
