@@ -51,10 +51,14 @@ These settings are protected so you will need to retrieve your router's access c
 
 ### Setting up Port Forwarding for SSH
 Here we will finally create a custom service, for my service I included these parameters:
+
 Name: My Raspberry Pi
+
 Global Port Range: 2222 
 - This is the port that will be accessed on your gateway router (Port 2222 chosen for obscurity but SSH Key Authentication is still recommended)
+  
 Base Host Port: 22
 - This is the port that the connection will be connected to on the Raspberry Pi (Port 22 is the usual port for SSH)
+
 Protocol: TCP/UDP
 
