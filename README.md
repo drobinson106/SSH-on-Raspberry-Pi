@@ -90,4 +90,4 @@ ssh -p 2222 user@pi-public-ip
 - `pi` = username of the user logged in on the Raspberry Pi.
 - `pi-public-ip` = Public IP of the network that the Raspberry Pi is connected to.
 
-Finally, you will be prompted for the password of the user you are trying to SSH in, and then you're in!
+Finally, you will be prompted for the password of the user you are trying to SSH, and then you're in!
